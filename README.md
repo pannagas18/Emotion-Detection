@@ -1,4 +1,4 @@
-# Anti Discrimination
-Anti Discrimination system to detect real time facial expressions towards a certain group of people and classify them discriminatory or not.
+# Emotion Detection
+Emotion Detection system to predict real time facial expressions.
 
 Trained Weights file - emotion_model.h5
